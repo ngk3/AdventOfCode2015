@@ -4,8 +4,6 @@
 
 using namespace std;
 
-// cl /EHsc Star1.cpp
-
 // Function that gets the end floor of Santa
 int getFloor(string filename) {
 	int counter = 0;
